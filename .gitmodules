@@ -1,0 +1,3 @@
+[submodule "dockyard"]
+	path = dockyard
+	url = git@github.com:DockYard/styleguides.git
