@@ -1,2 +1,7 @@
-# guidelines
-General styleguides &amp; documentation for product development
+# Product Development Guidelines
+
+General styleguides &amp; documentation for modern product development
+
+---
+
+## Index
