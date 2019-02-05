@@ -12,6 +12,7 @@ General styleguides &amp; documentation for modern product development
 
 - [PRs (Pull Requests)](engineering/git/PRs.md)
 - [Semantic Commits](engineering/git/commits.md)
+- [Git Workflow (basic)](https://github.com/benoror/guides/blob/master/git/workflow.md)
 
 #### Backend
 
@@ -21,3 +22,4 @@ General styleguides &amp; documentation for modern product development
 #### Misc
 
 - [DockYard Styleguides](https://github.com/DockYard/styleguides)
+- [Tractical Guides](https://github.com/benoror/guides)
