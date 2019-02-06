@@ -16,6 +16,7 @@ General styleguides &amp; documentation for modern product development
 - [Semantic Commits](engineering/git/commits.md)
 - [Git Workflow (basic)](https://github.com/benoror/guides/blob/master/git/workflow.md)
 - [Gitflow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Git Tools - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
 ### ⚙️ Backend
 
