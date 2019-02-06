@@ -1,6 +1,0 @@
-[submodule "dockyard"]
-	path = dockyard
-	url = git@github.com:DockYard/styleguides.git
-[submodule "tractical"]
-	path = tractical
-	url = git@github.com:benoror/guides.git
