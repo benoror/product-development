@@ -31,3 +31,4 @@ WIP
 
 - [DockYard Styleguides](https://github.com/DockYard/styleguides)
 - [Tractical Guides](https://github.com/benoror/guides)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
