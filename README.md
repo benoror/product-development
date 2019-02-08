@@ -41,8 +41,23 @@ WIP
 
 WIP
 
-### Misc
+### ⭐️ Misc
 
 - [DockYard Styleguides](https://github.com/DockYard/styleguides)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - [Tractical Guides](https://github.com/benoror/guides)
+
+### 📚 Books
+
+#### Technical
+
+- [Refactoring, by Martin Fowler](https://refactoring.com/)
+- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+- [Domain-Driven Design, by Eric Evans](https://domainlanguage.com/ddd/)
+- [Domain-Driven Design Distilled](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
+- [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.martinfowler.com/books/eaa.html)
+- [JavaScript: The Good Parts, Douglas Crockford](http://shop.oreilly.com/product/9780596517748.do)
+
+#### Non-technical
+
+- [Inspired: How to Create Tech Products Customers Love](https://svpg.com/inspired-how-to-create-products-customers-love/)
