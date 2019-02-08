@@ -21,7 +21,7 @@ General styleguides &amp; documentation for modern product development
 #### Heroku
 
 - [CLI](engineering/heroku/cli.md)
-- [Postgres][engineering/heroku/postgres.md]
+- [Postgres](engineering/heroku/postgres.md)
 - [Rollbacks](https://blog.heroku.com/releases-and-rollbacks#rollbacks)
 
 ### ⚙️ Backend
