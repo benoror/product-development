@@ -45,8 +45,8 @@ WIP
 
 #### React
 
-- [Presentational and Container Components - by Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-  - [Example Gist by Michael Chan](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
+- [Presentational and Container Components (Dan Abramov)](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+  - [Example Gist (Michael Chan)](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
 
 ## ⭐️ Misc
 
@@ -58,12 +58,12 @@ WIP
 
 ### Technical
 
-- [Refactoring by Martin Fowler](https://refactoring.com/)
+- [Refactoring (Martin Fowler)](https://refactoring.com/)
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-- [Domain-Driven Design by Eric Evans](https://domainlanguage.com/ddd/)
+- [Domain-Driven Design (Eric Evans)](https://domainlanguage.com/ddd/)
 - [Domain-Driven Design Distilled](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
-- [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.martinfowler.com/books/eaa.html)
-- [JavaScript: The Good Parts by Douglas Crockford](http://shop.oreilly.com/product/9780596517748.do)
+- [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.martinfowler.com/books/eaa.html)
+- [JavaScript: The Good Parts (Douglas Crockford)](http://shop.oreilly.com/product/9780596517748.do)
 
 ### Non-technical
 
