@@ -45,10 +45,14 @@ WIP
 
 #### React
 
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Presentational and Container Components (Dan Abramov)](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
   - [Example Gist (Michael Chan)](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)
+  - [Usage with Redux](https://redux.js.org/basics/usage-with-react#presentational-and-container-components)
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
+- [Redux](https://redux.js.org/introduction/motivation)
+  - [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
 
 ## ⭐️ Misc
 
