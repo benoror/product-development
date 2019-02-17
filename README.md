@@ -53,6 +53,12 @@ WIP
 - [React Patterns](https://reactpatterns.com/)
 - [Redux](https://redux.js.org/introduction/motivation)
   - [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
+  
+#### HTML & CSS
+
+- [Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  - [Grid by Example](https://gridbyexample.com/examples/)
+  - [Learn CSS Grid](https://learncssgrid.com/)
 
 ## ⭐️ Misc
 
