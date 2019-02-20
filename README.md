@@ -51,9 +51,18 @@ WIP
   - [Usage with Redux](https://redux.js.org/basics/usage-with-react#presentational-and-container-components)
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
+
+#### Redux
+
 - [Redux](https://redux.js.org/introduction/motivation)
-  - [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
-    - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+- [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
+  - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
+  - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
+  - [Redux and React: An Introduction](http://jakesidsmith.com/blog/post/2017-11-18-redux-and-react-an-introduction/)
+  - [What Does Redux Do? (and when should you use it?)](https://daveceddia.com/what-does-redux-do/)
+  - [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
+  - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
+  - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   
 #### HTML & CSS
 
