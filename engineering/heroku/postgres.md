@@ -1,4 +1,4 @@
-## Copy PRODUCTION Database to STAGING
+## Copy Remote-to-Remote Database (Ex. `PRODUCTION` to `STAGING`)
 
 ### Using `pg:backups`
 
@@ -14,7 +14,7 @@ Restoring the db is way faster than pg:pull or pg:copy.
 
 2. `heroku run rake db:migrate --app app-staging`
 
-## Copy PRODUCTION Database to DEVELOPMENT (local)
+## Copy Remote-to-Local Database (Ex. `PRODUCTION` to `DEVELOPMENT` (localhost))
 
 ### Using `pg:pull` (Faster way, latest snapshot)
 
