@@ -53,6 +53,7 @@ WIP
 - [React Patterns](https://reactpatterns.com/)
 - [Redux](https://redux.js.org/introduction/motivation)
   - [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
+    - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
   
 #### HTML & CSS
 
