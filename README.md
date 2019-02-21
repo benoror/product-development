@@ -63,6 +63,7 @@ WIP
   - [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
   - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
+- [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
   
 #### HTML & CSS
 
