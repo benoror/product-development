@@ -29,6 +29,12 @@ If the commit reverts a previous commit, it should begin with ``revert:``, follo
 ## Scope
 The scope could be anything specifying place of the commit change. For example: consultations, person/medical-history, etc.
 
+### Atomic commits
+
+> “Atomic commit” is basically a fancy way of saying a commit that commits one and only one thing. It’s a single complete unit of work.
+
+https://www.codewithjason.com/atomic-commits-testing/
+
 ## Description
 The commit summary contains succinct description of the change:
 * Use the imperative, present tense: "Change" not "Changed" nor "Changes".
