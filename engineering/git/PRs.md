@@ -1,3 +1,29 @@
+## Branches naming convention
+
+We try to follow [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/) naming conventions for branches as much as possible:
+
+#### `<type>/<name>`
+
+##### `<type>`
+```.
+feat   - New feature
+maint  - Maintenance, refactors
+bug    - Code changes linked to a known issue
+hotfix - Quick fixes to the codebase.
+junk   - Experiments (will "probably" never be merged).
+release - A release
+```
+
+##### `<name>`
+Always use dashes to seperate words, and keep it short.
+
+#### Examples
+```
+feat/renderer-cookies
+hotfix/dockerfile-base-image
+bug/login-ie
+```
+
 ## Pull Request Description Message
 When submitting a Pull Request it's important to include a concise descriptive message that serves as a summary of the branch. This helps identify the content of the Pull Request at a glance.
 
