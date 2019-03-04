@@ -24,10 +24,19 @@ General styleguides &amp; documentation for modern product development
 
 ## ⚙️ Backend
 
-### Ruby
+### Ruby (on Rails)
 
 - [Ruby Styleguide](engineering/style.md)
   - [Rubocop Styleguide](https://github.com/rubocop-hq/ruby-style-guide)
+
+#### Best Practices & Design Patterns
+
+- Controllers
+  - Memoizing
+    - [Explaining the rationale behind using memoized helper methods for controller resources](https://gist.github.com/bloudermilk/8345597)
+    - [The Basics of Ruby Memoization](http://gavinmiller.io/2013/basics-of-ruby-memoization/)
+    - [Rails best practices: Use memoization](https://rails-bestpractices.com/posts/2010/11/22/use-memoization/)
+    - [4 Simple Memoization Patterns in Ruby (And One Gem)](https://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
 
 #### Gems
 
