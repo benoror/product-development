@@ -51,6 +51,12 @@ WIP
 ## 🖼 Frontend
 
 ### Javascript
+  
+#### HTML & CSS
+
+- [Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  - [Grid by Example](https://gridbyexample.com/examples/)
+  - [Learn CSS Grid](https://learncssgrid.com/)
 
 #### React
 
@@ -73,12 +79,12 @@ WIP
   - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
-  
-#### HTML & CSS
 
-- [Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  - [Grid by Example](https://gridbyexample.com/examples/)
-  - [Learn CSS Grid](https://learncssgrid.com/)
+#### MobX
+
+- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
+- [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
+- [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
 
 ## ⭐️ Misc
 
