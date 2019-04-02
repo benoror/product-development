@@ -71,6 +71,14 @@ WIP
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
 
+#### CSS-Modules
+
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [CRA: Adding CSS Modules](https://facebook.github.io/create-react-app/docs/adding-a-css-modules-stylesheet)
+- [Getting started with CSS modules in React](https://blog.pusher.com/css-modules-react/)
+- [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
+- [What are CSS Modules? A visual introduction](https://www.javascriptstuff.com/what-are-css-modules/)
+
 #### Redux
 
 - [Redux](https://redux.js.org/introduction/motivation)
