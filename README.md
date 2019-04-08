@@ -31,20 +31,28 @@ General styleguides &amp; documentation for modern product development
 
 #### Best Practices & Design Patterns
 
-- Controllers
-  - Memoizing
-    - [Explaining the rationale behind using memoized helper methods for controller resources](https://gist.github.com/bloudermilk/8345597)
-    - [The Basics of Ruby Memoization](http://gavinmiller.io/2013/basics-of-ruby-memoization/)
-    - [Rails best practices: Use memoization](https://rails-bestpractices.com/posts/2010/11/22/use-memoization/)
-    - [4 Simple Memoization Patterns in Ruby (And One Gem)](https://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
-- Service Objects
-  - [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
-- Testing
+##### Controllers
+
+- Memoizing
+  - [Explaining the rationale behind using memoized helper methods for controller resources](https://gist.github.com/bloudermilk/8345597)
+  - [The Basics of Ruby Memoization](http://gavinmiller.io/2013/basics-of-ruby-memoization/)
+  - [Rails best practices: Use memoization](https://rails-bestpractices.com/posts/2010/11/22/use-memoization/)
+  - [4 Simple Memoization Patterns in Ruby (And One Gem)](https://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
+    
+##### Service Objects
+
+- [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
+  
+##### Testing
+
   - [How to configure RSpec in Ruby on Rails](https://blog.eq8.eu/article/junior-developer-set-up-rails-with-rspec-factorybot-database-cleaner.html)
 
-#### Gems
+##### Migrations
 
-WIP
+- **_Data_** Migrations
+  - [Data Migrations in Rails](https://thoughtbot.com/blog/data-migrations-in-rails)
+  - [Migrating Data - Rails Migrations or a Rake Task?
+](https://www.urbanbound.com/make/migrating-data-rails-migrations-or-a-rake-task)
 
 ### REST APIs
 
