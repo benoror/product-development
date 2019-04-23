@@ -133,3 +133,4 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
 - [High Output Management (Andrew S. Grove)](https://www.goodreads.com/book/show/324750.High_Output_Management)
 - [Remote (J. Fried, D.H.H.)](https://www.goodreads.com/book/show/17316682-remote)
 - [Rework (J. Fried, D.H.H.)](https://www.goodreads.com/book/show/6732019-rework)
+- [Priming Kanban](https://www.infoq.com/minibooks/priming-kanban-jesper-boeg)
