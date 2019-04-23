@@ -79,7 +79,7 @@ General styleguides &amp; documentation for modern product development
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
 
-#### CSS-Modules
+##### CSS-Modules
 
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [CRA: Adding CSS Modules](https://facebook.github.io/create-react-app/docs/adding-a-css-modules-stylesheet)
@@ -87,9 +87,11 @@ General styleguides &amp; documentation for modern product development
 - [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
 - [What are CSS Modules? A visual introduction](https://www.javascriptstuff.com/what-are-css-modules/)
 
-#### Redux
+##### State Management
 
-- [Redux](https://redux.js.org/introduction/motivation)
+- Hooks & Context API
+  - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
+[Redux](https://redux.js.org/introduction/motivation)
 - [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
   - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
   - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
@@ -98,13 +100,11 @@ General styleguides &amp; documentation for modern product development
   - [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
   - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
-- [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
-
-#### MobX
-
-- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
-- [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
-- [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
+  - [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
+- [MobX](https://mobx.js.org/intro/overview.html)
+  - [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
+  - [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
+  - [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
 
 ## ⭐️ Misc
 
