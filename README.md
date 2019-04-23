@@ -1,6 +1,6 @@
 # Product Development Guidelines
 
-General styleguides &amp; documentation for modern product development
+My personal & professional bookmarks, guidelines &amp; documentation for *modern product development*
 
 ---
 
@@ -127,4 +127,9 @@ General styleguides &amp; documentation for modern product development
 
 ### Non-technical
 
+- [The Lean Startup (Eric Ries)](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [Inspired: How to Create Tech Products Customers Love](https://svpg.com/inspired-how-to-create-products-customers-love/)
+- [Zero to One: Notes on Startups, or How to Build the Future (Peter Thiel)](https://www.goodreads.com/book/show/18050143-zero-to-one)
+- [High Output Management (Andrew S. Grove)](https://www.goodreads.com/book/show/324750.High_Output_Management)
+- [Remote (J. Fried, D.H.H.)](https://www.goodreads.com/book/show/17316682-remote)
+- [Rework (J. Fried, D.H.H.)](https://www.goodreads.com/book/show/6732019-rework)
