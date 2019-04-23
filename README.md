@@ -91,8 +91,14 @@ General styleguides &amp; documentation for modern product development
 
 - Hooks & Context API
   - [Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react)
+  - [State Management with React Hooks and Context API in 10 lines of code!
+](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
+- [MobX](https://mobx.js.org/intro/overview.html)
+  - [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
+  - [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
+  - [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
 [Redux](https://redux.js.org/introduction/motivation)
-- [React Redux](https://react-redux.js.org/introduction/why-use-react-redux)
+- [Redux (react-redux)](https://react-redux.js.org/introduction/why-use-react-redux)
   - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
   - [React Redux Tutorial for Beginners: The Definitive Guide (2019)](https://www.valentinog.com/blog/redux/)
   - [Redux and React: An Introduction](http://jakesidsmith.com/blog/post/2017-11-18-redux-and-react-an-introduction/)
@@ -101,10 +107,6 @@ General styleguides &amp; documentation for modern product development
   - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   - [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
-- [MobX](https://mobx.js.org/intro/overview.html)
-  - [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
-  - [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
-  - [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
 
 ## ⭐️ Misc
 
