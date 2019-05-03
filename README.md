@@ -78,6 +78,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
   - [Usage with Redux](https://redux.js.org/basics/usage-with-react#presentational-and-container-components)
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
+- [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data/#react-fetch-data-loading-error)
 
 ##### CSS-Modules
 
