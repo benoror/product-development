@@ -108,6 +108,15 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
   - [Redux Architecture and Best Practices](https://github.com/markerikson/react-redux-links/blob/master/redux-architecture.md)
   - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
   - [JSON:API resources for React + Redux](https://gist.github.com/benoror/9988c235d5cb53acfcf57ea668bd95cb)
+  
+##### Testing
+
+- [Jest](https://jestjs.io/)
+- [RTL (react-testing-library)](https://testing-library.com/docs/react-testing-library/intro)
+  - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
+  - [React Testing Examples: Jest + RTL](https://react-testing-examples.com/jest-rtl/)
+  - [Course: Teting Javascript by Kent C. Dodds](https://testingjavascript.com)
+- [Enzyme (AirBnB)](https://airbnb.io/enzyme/)
 
 ## ⭐️ Misc
 
