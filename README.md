@@ -112,6 +112,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
 ##### Testing
 
 - [Jest](https://jestjs.io/)
+  - [jest-dom](https://github.com/testing-library/jest-dom)
 - [RTL (react-testing-library)](https://testing-library.com/docs/react-testing-library/intro)
   - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library)
   - [React Testing Examples: Jest + RTL](https://react-testing-examples.com/jest-rtl/)
