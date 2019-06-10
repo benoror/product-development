@@ -113,6 +113,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
   
 ##### Testing
 
+- [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
 - [Jest](https://jestjs.io/)
   - [jest-dom](https://github.com/testing-library/jest-dom)
 - [RTL (react-testing-library)](https://testing-library.com/docs/react-testing-library/intro)
