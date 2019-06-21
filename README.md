@@ -138,6 +138,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
 - [Domain-Driven Design Distilled](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
 - [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.martinfowler.com/books/eaa.html)
 - [JavaScript: The Good Parts (Douglas Crockford)](http://shop.oreilly.com/product/9780596517748.do)
+- [You Don't Know JS (Kyle Simpson)](https://github.com/getify/You-Dont-Know-JS)
 
 ### Non-technical
 
