@@ -100,6 +100,7 @@ My personal & professional bookmarks, guidelines &amp; documentation for *modern
   - [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
   - [MobX: Concepts & Principles](https://mobx.js.org/intro/concepts.html)
   - [Video: Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://www.youtube.com/watch?v=76FRrbY18Bs)
+  - [Building a JSON:API App with React and Reststate/Mobx](https://howtojsonapi.com/react-native.html)
 [Redux](https://redux.js.org/introduction/motivation)
 - [Redux (react-redux)](https://react-redux.js.org/introduction/why-use-react-redux)
   - [Leveling Up with React: Redux](https://css-tricks.com/learning-react-redux/)
